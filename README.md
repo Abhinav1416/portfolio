@@ -1,3 +1,13 @@
+# 🧑‍💻 My Portfolio
+
+This is my personal portfolio website built using React.
+
+## 🔗 Live Demo
+
+[Click here to view the live site](https://portfolio-chi-blond-96.vercel.app)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
