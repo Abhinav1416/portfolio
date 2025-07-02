@@ -77,7 +77,7 @@ function App() {
             <div className="project-card">
               <h3>
                 LinkSphere
-                <a href="https://github.com/Abhinav1416" target="_blank" className="project-link" rel="noreferrer">
+                <a href="https://github.com/Abhinav1416/LinkSphere" target="_blank" className="project-link" rel="noreferrer">
                   GitHub
                 </a>
               </h3>
@@ -95,7 +95,7 @@ function App() {
             <div className="project-card">
               <h3>
                 EventVault
-                <a href="https://github.com/Abhinav1416" target="_blank" className="project-link" rel="noreferrer">
+                <a href="https://github.com/Abhinav1416/EventVault" target="_blank" className="project-link" rel="noreferrer">
                   GitHub
                 </a>
               </h3>
