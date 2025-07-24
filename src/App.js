@@ -133,7 +133,7 @@ function App() {
 
             <div>
               <h3 className="text-lg font-semibold mb-2 text-slate-700">Backend</h3>
-              <p className="text-slate-500">Spring Boot, Spring Security, Hibernate, REST APIs, WebSocket (STOMP), ZXing</p>
+              <p className="text-slate-500">Spring Boot, Spring Security, Hibernate, REST APIs, WebSocket (STOMP), ZXing, Apache Kafka</p>
             </div>
 
             <div>
